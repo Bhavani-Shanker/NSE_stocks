@@ -7,3 +7,4 @@ nltk
 streamlit_autorefresh
 xgboost
 scikit-learn
+libs
